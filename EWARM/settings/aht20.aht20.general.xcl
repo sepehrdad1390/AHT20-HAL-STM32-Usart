@@ -1,0 +1,15 @@
+"D:\New folder\program_installer_location\iar for arm\arm\bin\armproc.dll" 
+
+"D:\New folder\program_installer_location\iar for arm\arm\bin\armstlink2.dll" 
+
+"E:\electronic\barname\stm32\aht20\EWARM\aht20\Exe\aht20.out" 
+
+--plugin="D:\New folder\program_installer_location\iar for arm\arm\bin\armbat.dll" 
+
+--device_macro="D:\New folder\program_installer_location\iar for arm\arm\config\debugger\ST\STM32F0xx.dmac" 
+
+--flash_loader="D:\New folder\program_installer_location\iar for arm\arm\config\flashloader\ST\FlashSTM32F03xx4.board" 
+
+
+
+
